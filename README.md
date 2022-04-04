@@ -1,5 +1,7 @@
 ### Hi, I'm Alex 👋
 
+I have diverse experience in science, industry and organization of educational projects. I love machine learning and working with people.
+
 - **Associate Professor and head of the educational program in «Data Science»** at [St Petersburg State University](https://math-cs.spbu.ru/en/), Department of Mathematics and Computer Science
 - **Academic Programs Manager** at [Yandex Data School](https://github.com/yandexdataschool)
 - **ex-data scientist** at [Yandex](https://github.com/yandex)
