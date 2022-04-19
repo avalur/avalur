@@ -1,8 +1,8 @@
 ### Hi, I'm Alex 👋
 
-I have diverse experience in science, industry and organization of educational projects. I love machine learning and working with people.
+Project Manager and Data Scientist with 7+ years of experience in data science, analysis, and educational programs for the IT industry.
 
-- **Associate Professor and head of the educational program in «Data Science»** at [St Petersburg State University](https://math-cs.spbu.ru/en/), Department of Mathematics and Computer Science
+- **Associate Professor and Head of the educational program in «Data Science»** at [St Petersburg State University](https://math-cs.spbu.ru/en/), Department of Mathematics and Computer Science
 - **Academic Programs Manager** at [Yandex Data School](https://github.com/yandexdataschool)
 - **ex-data scientist** at [Yandex](https://github.com/yandex)
 
@@ -17,7 +17,7 @@ I have diverse experience in science, industry and organization of educational p
 | 02/2015 — 07/2018          | Data Scientist            | Yandex                     | Improving data base of organizations |
 | 09/2009 — 01/2015          | Graduate Student, Researcher | Institute of Computational Technologies SB RAS |  Numerical modeling of the flows in hydroturbines |
 
-More about work experience in my [CV](https://github.com/avalur/cv/raw/master/avalur_cv_en_detailed.pdf)
+More about work experience in my [CV](https://github.com/avalur/cv/blob/master/avalur_cv_en_one_page.pdf)
 
 ### Skills 🛠️
 
@@ -46,7 +46,7 @@ More about work experience in my [CV](https://github.com/avalur/cv/raw/master/av
 | --------- | ------------------- | ----- | ------ |
 | 2013-2016 | [Yandex Data School](https://yandexdataschool.ru) | machine learning, programming | graduate|
 | 2009-2014 | [Graduate School of ICT SB RAS](http://www.ict.nsc.ru/ru/education/postgraduate) | math modeling, numerical methods | PhD|
-| 2003-2009| [Novosibirsk State University](https://english.nsu.ru/) | math | graduate|
+| 2003-2009| [Novosibirsk State University](https://english.nsu.ru/) | math | Master degree|
 
 ### Github Stats ⭐
 
