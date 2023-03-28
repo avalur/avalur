@@ -38,7 +38,7 @@ More about work experience in my [CV](https://github.com/avalur/cv/blob/master/a
 
 | Period                | Course              | University / Educational center |
 | --------------------- | ------------------- | ---------------------- |
-| 2023, fall            | [Machine learning](https://github.com/avalur/ml-course-kbtu)| Kazakh-British Technical University|
+| 2022, fall            | [Machine learning](https://github.com/avalur/ml-course-kbtu)| Kazakh-British Technical University|
 | 2021-2022             | [Machine learning](https://github.com/spbu-math-cs/ml-course)| Department of Mathematics and Computer Science|
 | 2019, fall            | [Programming principles](https://math-cs.spbu.ru/courses/printsipy-programmirovaniya/) | Department of Mathematics and Computer Science|
 | 2018, fall            | [Python programming](https://compscicenter.ru/courses/python/nsk/2018-autumn/) | Computer Science Center|
