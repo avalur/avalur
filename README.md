@@ -1,10 +1,11 @@
 ### Hi, I'm Alex 👋
 
-Project Manager and Data Scientist with 7+ years of experience in data science, analysis, and educational programs for the IT industry.
+Lecturer, Project Manager and Data Scientist with 8+ years of experience in data science, analysis, and educational programs for the IT industry.
 
+- **Lecturer and edu project manager** at [JetBrains](https://www.jetbrains.com), Education and Research
 - **Associate Professor and Head of the educational program in «Data Science»** at [St Petersburg State University](https://math-cs.spbu.ru/en/), Department of Mathematics and Computer Science
-- **Academic Programs Manager** at [Yandex Data School](https://github.com/yandexdataschool)
-- **ex-data scientist** at [Yandex](https://github.com/yandex)
+- **ex-Academic Programs Manager** at [Yandex](https://github.com/yandex), [Yandex Data School](https://github.com/yandexdataschool)
+- **ex-Data Scientist** at [Yandex](https://github.com/yandex)
 
 ---
 
@@ -12,8 +13,9 @@ Project Manager and Data Scientist with 7+ years of experience in data science, 
 
 | Work Period                | Job Position              | Company        | Team / Field                    |
 | -------------------------- | ---------------------     | -------------- | ------------------------------- |
+| **01/2023 — present**      | **Lecturer and project manager**   | **JetBrains** | **Education and Research** |
 | **09/2019 — present**      | **Associate Professor**   | **St Petersburg State University** | **Department of Mathematics and Computer Science** |
-| **07/2013 — present**      | **Academic Programs Manager** | **Yandex data school** |  **data science education program** |
+| 07/2013 — 02/2023          | Academic Programs Manager | Yandex |  data science education programs |
 | 02/2015 — 07/2018          | Data Scientist            | Yandex                     | Improving data base of organizations |
 | 09/2009 — 01/2015          | Graduate Student, Researcher | Institute of Computational Technologies SB RAS |  Numerical modeling of the flows in hydroturbines |
 
@@ -36,6 +38,7 @@ More about work experience in my [CV](https://github.com/avalur/cv/blob/master/a
 
 | Period                | Course              | University / Educational center |
 | --------------------- | ------------------- | ---------------------- |
+| 2023, fall            | [Machine learning](https://github.com/avalur/ml-course-kbtu)| Kazakh-British Technical University|
 | 2021-2022             | [Machine learning](https://github.com/spbu-math-cs/ml-course)| Department of Mathematics and Computer Science|
 | 2019, fall            | [Programming principles](https://math-cs.spbu.ru/courses/printsipy-programmirovaniya/) | Department of Mathematics and Computer Science|
 | 2018, fall            | [Python programming](https://compscicenter.ru/courses/python/nsk/2018-autumn/) | Computer Science Center|
