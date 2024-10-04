@@ -1,36 +1,34 @@
 ### Hi, I'm Alex 👋
 
-Lecturer, Project Manager and Data Scientist with 8+ years of experience in data science, analysis, and educational programs for the IT industry.
+Lecturer, Researcher and Data Scientist with 8+ years of experience in data science, analysis, and educational programs for the IT industry.
 
-- **Lecturer and edu project manager** at [JetBrains](https://www.jetbrains.com), Education and Research
-- **ex-Head of ML programs** at [Yandex](https://github.com/yandex), [Yandex Data School](https://github.com/yandexdataschool)
+- **Lecturer and Researcher** at [JetBrains](https://www.jetbrains.com), Education and Research
+- **ex-Head of ML programs** at [Yandex](https://ya.ru), [Yandex Data School](https://github.com/yandexdataschool)
 - **ex-Associate Professor and Head of the educational program in «Data Science»** at [St Petersburg State University](https://math-cs.spbu.ru/en/), Department of Mathematics and Computer Science
-- **ex-Data Scientist** at [Yandex](https://github.com/yandex)
+- **ex-Data Scientist** at [Yandex](https://ya.ru)
 
 ---
 
 ### Work experience 👔
 
-| Work Period                | Job Position                     | Company        | Team / Field                    |
-| -------------------------- |----------------------------------| -------------- | ------------------------------- |
-| **01/2023 — present**      | **Lecturer and project manager** | **JetBrains** | **Education and Research** |
-| 07/2013 — 02/2023          | Head of ML programs              | Yandex |  data science education programs |
-| 09/2019 — 06/2023          | Associate Professor              | St Petersburg State University | Department of Mathematics and Computer Science |
-| 02/2015 — 07/2018          | Data Scientist                   | Yandex                     | Improving data base of organizations |
-| 09/2009 — 01/2015          | Graduate Student, Researcher     | Institute of Computational Technologies SB RAS |  Numerical modeling of the flows in hydroturbines |
+| Work Period                | Job Position                 | Company        | Team / Field                    |
+| -------------------------- |------------------------------| -------------- | ------------------------------- |
+| **01/2023 — present**      | **Lecturer and Researcher**  | **JetBrains** | **Education and Research** |
+| 07/2013 — 02/2023          | Head of ML programs          | Yandex |  data science education programs |
+| 09/2019 — 06/2023          | Associate Professor          | St Petersburg State University | Department of Mathematics and Computer Science |
+| 02/2015 — 07/2018          | Data Scientist               | Yandex                     | Improving data base of organizations |
+| 09/2009 — 01/2015          | Graduate Student, Researcher | Institute of Computational Technologies SB RAS |  Numerical modeling of the flows in hydroturbines |
 
 More about work experience in my [CV](https://github.com/avalur/cv/blob/master/avalur_cv_en_one_page.pdf)
 
 ### Skills 🛠️
 
 ![Python](https://img.shields.io/badge/Python-Experienced-_.svg?logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-User-_.svg?logo=pytorch)
-![SQL](https://img.shields.io/badge/SQL-Experienced-_.svg?logo=SQL)
+![PyTorch](https://img.shields.io/badge/PyTorch-Experienced-_.svg?logo=pytorch)
 
 <!-- ![Java](https://img.shields.io/badge/Java-Basic-_.svg?logo=java) -->
 ![OpenMP](https://img.shields.io/badge/OpenMP-Basic-_.svg?logo=OpenMP)
 ![MPI](https://img.shields.io/badge/MPI-Basic-_.svg?logo=MPI)
-<!-- ![LeetCode](https://img.shields.io/badge/LeetCode-Solver-_.svg?logo=LeetCode&logoColor=#d16c06) -->
 
 ---
 
