@@ -1,6 +1,6 @@
 ### Hi, I'm Alex 👋
 
-Lecturer, Researcher and Data Scientist with 8+ years of experience in data science, analysis, and educational programs for the IT industry.
+Lecturer, Researcher and Data Scientist with over nine years of experience in data science, analysis, and educational programs for the tech industry.
 
 - **Lecturer and Researcher** at [JetBrains](https://www.jetbrains.com), Education and Research
 - **ex-Head of ML programs** at [Yandex](https://ya.ru), [Yandex Data School](https://github.com/yandexdataschool)
